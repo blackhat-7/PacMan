@@ -3,9 +3,11 @@ The classic pacman game, with the enemy being Troll faces instead of Blinky, Pin
 
 # Installation
 Dependencies
+
 Windows:
 1. To install numpy: py -m pip install -U numpy --user
 2. To install pygame: py -m pip install -U pygame --user
+
 Linux/Mac:
 1. numpy: pip install numpy
 2. pygame: py -m pip install -U pygame --user
