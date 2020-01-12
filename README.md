@@ -1,5 +1,5 @@
 # PacMan with Pygame
-The classic pacman game, with the enemy being Troll faces instead of Blinky, Pinky, Inky and Clyde.
+Don't let the trolls get you.
 
 # Installation
 Dependencies
